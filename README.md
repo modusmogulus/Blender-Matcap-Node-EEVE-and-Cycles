@@ -13,7 +13,7 @@ Simple matcap node for Blender Eevee and Cycles
 <br>
 <img width="875" height="745" alt="kuva" src="https://github.com/user-attachments/assets/847e6685-069e-4b3b-9c1b-03e1f451a1ed" />
 <br>
-<img width="755" height="471" alt="kuva" src="https://github.com/user-attachments/assets/b9020e40-af90-4822-a45a-e23a5a3d4e11" />
+<img width="1002" height="412" alt="kuva" src="https://github.com/user-attachments/assets/63e5b224-0bf3-4b88-8435-7abce71b96ba" />
 <br>
 Matcaps in the matcaps_modusmogs folder were made by me. <br>
 AI was **NOT** used in any way.
