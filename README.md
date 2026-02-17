@@ -2,8 +2,8 @@
 Simple matcap node for Blender Eevee and Cycles
 
 # How to use
-
-step by step images:
+1. Download this repo
+2. Follow these images:
 <br>
 <img width="292" height="611" alt="kuva" src="https://github.com/user-attachments/assets/d209b0cf-b76b-4a24-888f-f2ef2e5a70a1" />
 <br>
