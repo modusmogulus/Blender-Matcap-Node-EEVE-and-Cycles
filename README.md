@@ -1,5 +1,6 @@
-# Blender Matcap Node EEVE and Cycles
+# Blender Matcap Node EEVE and Cycles (CC0 ofc)
 Simple matcap node for Blender Eevee and Cycles
+<img width="1920" height="1080" alt="thumb" src="https://github.com/user-attachments/assets/ffbfca8c-4f2f-4d06-802b-6a9205961839" />
 
 # How to use
 1. Download this repo
